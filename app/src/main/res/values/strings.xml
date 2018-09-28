@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">weekfourdemo</string>
+
+    <string-array name="fsc_bcs_classes">
+        <item>BCS120</item>
+        <item>BCS220</item>
+        <item>BCS320</item>
+        <item>BCS420</item>
+        <item>BCS520</item>
+        <item>BCS620</item>
+        <item>BCS720</item>
+        <item>BCS820</item>
+    </string-array>
+</resources>
